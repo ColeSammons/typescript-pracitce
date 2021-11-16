@@ -1,0 +1,21 @@
+{
+  "name": "typescript-pracitce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColeSammons/typescript-pracitce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColeSammons/typescript-pracitce/issues"
+  },
+  "homepage": "https://github.com/ColeSammons/typescript-pracitce#readme"
+}
